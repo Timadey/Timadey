@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 - I'm Timothy
 - A passionate backend developer from Africa
-- 🌱 I’m currently learning **software engineering**
-- ⚡ Fun fact: I'm interested in Blockchain related topics 😉
-
+- 🌱 I’m currently enrolled in a **software engineering** training programme by <a href="https://www.github.com/holbertonschool">@holbertonschool</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timadey&label=Profile%20views&color=0e75b6&style=flat" alt="timadey" /> </p>
 
