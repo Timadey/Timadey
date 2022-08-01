@@ -1,24 +1,26 @@
 <!-- Hi there 👋 -->
+<h1 align="center">Welcome 🤗</h1>
+
+- I'm Timothy
 
 <!--
 **Timadey/Timadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<h1 align="center">Welcome 🤗</h1>
+- A passionate backend developer
+- 🔭 I’m currently working on web development related projects using php/laravel, mysql, javascript, html and css
+- 👯 I’m looking to collaborate on open source projects in php/laravel, python and c
+- 🌱 I’m currently learning python in a **software engineering** training programme at <a href="https://www.github.com/holbertonschool">@holbertonschool</a>
+- 💬 Ask me about software engineering related topics
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/timadey">LinkedIn</a>
+- ⚡ Fun fact: I'm a great team player and a fast learner!
+<!-- 
+- 😄 Pronouns: ...
+- 🤔 I’m looking for help with ...
+-->
 
-- I'm Timothy
-- A passionate backend developer from Africa
-- 🌱 I’m currently enrolled in a **software engineering** training programme at <a href="https://www.github.com/holbertonschool">@holbertonschool</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timadey&label=Profile%20views&color=0e75b6&style=flat" alt="timadey" /> </p>
 
